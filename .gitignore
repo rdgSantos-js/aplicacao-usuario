@@ -1,0 +1,3 @@
+#Arquivos e pasatas que devem ser ignorados
+client/node_modules
+server/node_modules
